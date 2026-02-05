@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "src/app/projects/ecommerce/support/faq/page.jsx"  ],
+, "src/app/projects/ecommerce/support/faq/page.jsx", "src/app/projects/ecommerce/account/addresses/page.jsx", "src/app/projects/ecommerce/account/wishlist/page.jsx", "src/app/projects/ecommerce/checkout/sucess/page.jsx", "src/app/projects/ecommerce/checkout/page.jsx", "src/app/projects/ecommerce/shop/[category]/page.jsx", "src/app/projects/ecommerce/shop/page.jsx", "src/app/projects/ecommerce/support/terms/page.jsx", "src/app/projects/ecommerce/trackOrder/page.jsx"  ],
   "exclude": ["node_modules"]
 }

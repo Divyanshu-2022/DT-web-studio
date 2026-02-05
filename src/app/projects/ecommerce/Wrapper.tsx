@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from './Layout/Header'
-import Footer from './layout/Footer'
+import Header from './Layout/Header';
+import Footer from './Layout/Footer';
 import Promo from './Layout/PromoBar';
 function Wrapper(props) {
   return (
@@ -12,5 +12,6 @@ function Wrapper(props) {
     </div>
   )
 }
+
 
 export default Wrapper
